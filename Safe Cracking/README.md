@@ -18,13 +18,13 @@ There are three #D printed items we use. We print them in PLA.
 
 ## Parts List
 
-- Sparrows Challenge Safe
--- https://www.sparrowslockpicks.com/collections/practice-safe-cracking
-- 16 x 12 x 8 In Carbon Steel Electrical Enclosure Cabinet 16 Gauge IP65 (we call this the can)
--- https://www.toolots.com/ng-frontend/productDetail?id=85712&subProductId=31692&title=Carbon+Steel+Electrical+Enclosure+Cabinet+16+Gauge+IP65
-- Carriage Bolts
-- Nuts
+* Sparrows Challenge Safe
+	* https://www.sparrowslockpicks.com/collections/practice-safe-cracking
+* 16 x 12 x 8 In Carbon Steel Electrical Enclosure Cabinet 16 Gauge IP65 (we call this the can)
+	* https://www.toolots.com/ng-frontend/productDetail?id=85712&subProductId=31692&title=Carbon+Steel+Electrical+Enclosure+Cabinet+16+Gauge+IP65
+* Carriage Bolts
+* Nuts
 
 ## Assembly Steps
 
-- Coming soon
+* Coming soon
