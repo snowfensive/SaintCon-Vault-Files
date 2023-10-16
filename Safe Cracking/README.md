@@ -8,7 +8,7 @@ We created these units to expand the Sparrow's original safe housing to store th
 - ✨Assesmbly  Magic ✨
 
 ## STL Files
-There are three #D printed items we use.
+There are three #D printed items we use. We print them in PLA.
 - "Sparrows Safe Hole Mounting Plate Hole Guide.stl"
 -- This file is used outside of the can to mark the placement of the carriage bolts as well as the whole for the dial shaft.
 - "Sparrows Safe Hole Mounting Plate.stl"
