@@ -22,3 +22,25 @@ _The edges of the walls have exposed metal, making it hazardous to handle the wa
 
    * Gorilla extra wide tape - https://www.lowes.com/pd/Gorilla-2-88-in-x-25-Yard-S-White-Heavy-Duty-Duct-Tape/1001306542
    * Stikk Duct Tape (for use on the actual panels, saves you from painting) - https://www.amazon.com/dp/B0845SHXHD?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_F5D706BN0TQWBYPT018K
+
+
+# Door Locks
+
+No Vault is complete without a set of locks. Typically all lock keys are centralized in the storage in a ziplock bag. 
+
+**Simplex 1000**
+* Product Link: https://www.dormakaba.com/us-en/offering/products/door-hardware/simplex-mechanical-pushbutton-locks/simplex-1000--ka_235259
+* Reset Instructions: https://accesshardware.com/wp-content/uploads/2014/08/Kaba-Simplex-EE1000-Series-is.pdf
+
+**Trilogy**
+* Reset Instructions: https://nkssolutions.co.uk/wp-content/uploads/2017/04/DL2700_enhanced-programming.pdf
+
+**Lockly Bluetooth Lock**
+* Reset Instructions: https://images.homedepot-static.com/catalog/pdfImages/69/690a1692-1f5a-471f-a69d-874bd29d7a64.pdf
+
+**X-09**
+* Reset Instructions: https://classlocks.com.au/downloads/Safe%20Instructions/X09.pdf
+
+
+
+
