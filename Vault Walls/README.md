@@ -42,5 +42,15 @@ No Vault is complete without a set of locks. Typically all lock keys are central
 * Reset Instructions: https://classlocks.com.au/downloads/Safe%20Instructions/X09.pdf
 
 
+# Bypass Defense
+
+* Weather Stripping.
+* Using towels on ADA style handles, making under/over the door methods more difficult.
+* Tape, lots and lots of tape
+* Adding washers to the screws holding the strike to the door. This moves the strike closer to the door latch making loiding or latch shimming more difficult.
+* Hinge Pins, general saftey measure as the doors are stupid heavy
+* Door strike covers
+
+
 
 
