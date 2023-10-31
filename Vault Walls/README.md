@@ -17,6 +17,7 @@ The wall design was created with scalabiilty, durability and realism in mind. Ea
     * Drywall Screws (for mouting the drywall to the metal frame) - https://www.lowes.com/pd/Grip-Rite-6-x-1-1-4-in-Bugle-Fine-Thread-Drywall-Screws-1-lb/3295196
 
 * Tape
+
 The edges of the walls have exposed metal, making it hazardous to handle the walls with or without gloves, its recommended to put thick tape on the edges, this seves two purposes. Both to protect anyone handling the wall panels as well as to add extra reinforcement to the edges of the panels to protect against crumpling and dings.
     * Gorilla extra wide tape - https://www.lowes.com/pd/Gorilla-2-88-in-x-25-Yard-S-White-Heavy-Duty-Duct-Tape/1001306542
     * Stikk Duct Tape (for use on the actual panels, saves you from painting) - https://www.amazon.com/dp/B0845SHXHD?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_F5D706BN0TQWBYPT018K
